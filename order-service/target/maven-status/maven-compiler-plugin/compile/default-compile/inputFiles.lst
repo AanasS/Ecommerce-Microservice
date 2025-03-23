@@ -1,8 +1,0 @@
-E:\material\study spring\Microservices-Ecommerce\order-service\src\main\java\com\studymicroservices\order_service\controller\OrderController.java
-E:\material\study spring\Microservices-Ecommerce\order-service\src\main\java\com\studymicroservices\order_service\dto\OrderLineItemsDto.java
-E:\material\study spring\Microservices-Ecommerce\order-service\src\main\java\com\studymicroservices\order_service\dto\OrderRequest.java
-E:\material\study spring\Microservices-Ecommerce\order-service\src\main\java\com\studymicroservices\order_service\model\Order.java
-E:\material\study spring\Microservices-Ecommerce\order-service\src\main\java\com\studymicroservices\order_service\model\OrderLineItem.java
-E:\material\study spring\Microservices-Ecommerce\order-service\src\main\java\com\studymicroservices\order_service\OrderServiceApplication.java
-E:\material\study spring\Microservices-Ecommerce\order-service\src\main\java\com\studymicroservices\order_service\repository\OrderRepository.java
-E:\material\study spring\Microservices-Ecommerce\order-service\src\main\java\com\studymicroservices\order_service\service\OrderService.java
