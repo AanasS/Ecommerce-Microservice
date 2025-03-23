@@ -25,14 +25,11 @@ public class InventoryServiceApplication {
 			inventory1.setSkuCode("iphone_13_red");
 			inventory1.setQuantity(0);
 
-			if(!inventoryRepository.findBySkuCode(inventory.getSkuCode()).isPresent()){
 
 			inventoryRepository.save(inventory);
-			}
-			if(!inventoryRepository.findBySkuCode(inventory1.getSkuCode()).isPresent()){
 
 			inventoryRepository.save(inventory1);
-			}
+
 		};
 	}
 
